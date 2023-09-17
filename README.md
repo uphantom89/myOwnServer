@@ -1,4 +1,4 @@
-# Provision
+# MyOwnServer
 
 English ⋅ [Français](LISEZMOI.md)
 
